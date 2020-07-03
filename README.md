@@ -12,7 +12,7 @@ Classification algorithms used :
 
 Loss Analysis of Neural Network Classifier
 
-![ Training and Validation Loss](https://github.com/[priyanu17]/[employee_retension_analysis]/Images/[master]/Loss Image.png?raw=true)
+![ Training and Validation Loss](https://github.com/priyanu17/employee_retension_analysis/blob/master/Images/Loss%20Image.png?raw=true)
 
 
 
