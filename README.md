@@ -9,3 +9,7 @@ Classification algorithms used :
 2) Random Forest Classifier
 
 3) Neural Network Classifier
+
+Loss Analysis of Neural Network Classifier
+
+
