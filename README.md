@@ -11,7 +11,7 @@ Classification algorithms used :
 3) Neural Network Classifier
 
 Loss Analysis of Neural Network Classifier
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+
+![Loss Reduction while Training](/images/Loss Image.png)
 
 
