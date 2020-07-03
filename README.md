@@ -12,7 +12,7 @@ Classification algorithms used :
 
 Loss Analysis of Neural Network Classifier
 
-![Loss Reduction while Training](/Images/Loss Image.png)
-Format: ![Alt Text](url)
+![Loss Values during Training](Images/Loss Image.jpg?raw=true "Loss during Training")
+
 
 
